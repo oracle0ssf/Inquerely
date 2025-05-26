@@ -47,7 +47,7 @@ We do not provide support for unauthorized or illegal usage.
 ## 📦 Deployment Status
 
 - ✅ UI: Deployed (private)
-- 🌐 Web access: [inquerely.com](https://inquerely.com) _(placeholder)_
+- 🌐 Web access: [inquerely.com](https://inquerely.com) 
 
 ---
 
@@ -61,4 +61,4 @@ No source code is available in this repository.
 ## 📫 Contact
 
 For legitimate inquiries, reach out via the secure contact form at:  
-[inquerely.com/contact](https://inquerely.com/contact) _(placeholder)_
+[inquerely.com/contact](https://inquerely.com/contact) 
